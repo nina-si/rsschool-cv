@@ -11,8 +11,8 @@
 * HTML
 * CSS
 * JavaScript
-* SQL
 * git
+* SQL
 
 ### Experience
 #### EPAM Systems
