@@ -1,0 +1,44 @@
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+main {
+  margin: 0 auto;
+}
+h1,
+h2 {
+  color: #00bfff;
+}
+h3,
+h4,
+h5 {
+  color: #292929;
+}
+.education p {
+  font-style: italic;
+}
+.photo {
+  float: right;
+}
+.photo > img {
+  border-radius: 50%;
+  border: 3px solid #00bfff;
+}
+ul {
+  list-style: none;
+  margin: 0;
+}
+ul li {
+    margin: 10px 0;
+    position: relative;
+    border-left: 6px solid #00bfff;
+    padding-left: 15px;
+}
+footer p {
+  font-size: 12px;
+  float: right;
+}
+footer p a {
+  text-decoration: none;
+}
